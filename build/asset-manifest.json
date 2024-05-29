@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.53cc8c44.css",
-    "main.js": "/static/js/main.3f2b04af.js",
-    "static/js/453.97bade41.chunk.js": "/static/js/453.97bade41.chunk.js",
-    "static/media/page-bg.png": "/static/media/page-bg.6c915217f1acc9ab4d19.png",
-    "static/media/img-bg.png": "/static/media/img-bg.9af39d5245ea6f0a4dde.png",
-    "static/media/rainycloud.gif": "/static/media/rainycloud.4c449ba3457238e8aa65.gif",
-    "static/media/sunnycloud.gif": "/static/media/sunnycloud.2afc59136f2337bf458a.gif",
-    "index.html": "/index.html",
-    "main.53cc8c44.css.map": "/static/css/main.53cc8c44.css.map",
-    "main.3f2b04af.js.map": "/static/js/main.3f2b04af.js.map",
-    "453.97bade41.chunk.js.map": "/static/js/453.97bade41.chunk.js.map"
+    "main.css": "/weather-forecast/static/css/main.53cc8c44.css",
+    "main.js": "/weather-forecast/static/js/main.7e1c470e.js",
+    "static/js/453.97bade41.chunk.js": "/weather-forecast/static/js/453.97bade41.chunk.js",
+    "static/media/page-bg.png": "/weather-forecast/static/media/page-bg.6c915217f1acc9ab4d19.png",
+    "static/media/img-bg.png": "/weather-forecast/static/media/img-bg.9af39d5245ea6f0a4dde.png",
+    "static/media/rainycloud.gif": "/weather-forecast/static/media/rainycloud.4c449ba3457238e8aa65.gif",
+    "static/media/sunnycloud.gif": "/weather-forecast/static/media/sunnycloud.2afc59136f2337bf458a.gif",
+    "index.html": "/weather-forecast/index.html",
+    "main.53cc8c44.css.map": "/weather-forecast/static/css/main.53cc8c44.css.map",
+    "main.7e1c470e.js.map": "/weather-forecast/static/js/main.7e1c470e.js.map",
+    "453.97bade41.chunk.js.map": "/weather-forecast/static/js/453.97bade41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53cc8c44.css",
-    "static/js/main.3f2b04af.js"
+    "static/js/main.7e1c470e.js"
   ]
 }
