@@ -9,7 +9,7 @@ import Weather from './Components/Weather/Weather';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='weather-forecast'>
       <div>
         <Routes>
           <Route  path='/'  element={<HomePage />}/>
