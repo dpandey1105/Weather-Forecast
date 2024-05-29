@@ -7,7 +7,7 @@ import firstimg from "../../Assets/Images/page-bg.png";
 const HomePage = () => {
 
     const handleClick = () => {
-        window.location.href = "/weather-forecast/api/weather"
+        window.location.href = "#/api/weather"
     }
 
     return (

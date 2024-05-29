@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom';
 //Components
 import HomePage from "./Components/HomePage/HomePage"
 import Weather from './Components/Weather/Weather';
@@ -9,7 +9,7 @@ import Weather from './Components/Weather/Weather';
 
 function App() {
   return (
-    <BrowserRouter basename='weather-forecast'>
+    <HashRouter>
       <div>
         <Routes>
           <Route  path='/'  element={<HomePage />}/>
@@ -17,7 +17,7 @@ function App() {
         </Routes>
 
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
